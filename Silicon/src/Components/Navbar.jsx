@@ -5,7 +5,7 @@ const Navbar = () => {
             <nav id="main-menu" className="navbar">   
                 <div className="container">
                     <a  id="logo" href="index.html">
-                        <img src="/HTML-assignment/Assets/silicon-logo.svg" alt="silicon logo"/>
+                        <img src="/Assets/silicon-logo.svg" alt="silicon logo"/>
                     </a>     
                        
                             <a className="nav-link" href="#">Features</a>
